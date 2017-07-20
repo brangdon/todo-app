@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aquamarine;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-variant: normal;
+}
+
+#root {
+    /*padding: 5%;*/
+    /*margin: 0 auto;*/
+    /*width: 80%;*/
+}
+
+.main_h2 {
+    /*font-size: 3em;*/
+    text-align: center;
+}
+
+.task {
+    /*background-color: dodgerblue;*/
+    border-style: solid;
+    padding: 2%;
+    margin-bottom: 2%;
+}
+
+.task_header {
+    /*font-size: 1.5em;*/
+}
+
+.sorting {
+    display: block;
+    overflow: auto;
+    padding: 5%;
+}
+.tt{
+    font-size: 1em;
+}
+
+.task-header {
+    /*padding-top: 5%;*/
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.add-task{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.task-details {
+    padding: 5%;
+}
+
+.task p {
+    /*line-height: 1.5em;*/
+    /*font-size: 1em;*/
+    /*color: dimgrey;*/
+}
