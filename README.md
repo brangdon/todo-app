@@ -5,4 +5,5 @@ ToDo app
 3. pull repo
 4. run: npm build
 5. run: npm install react-day-picker --save
-6. enjoy!
+6. run: npm install sort-by
+7. enjoy!
